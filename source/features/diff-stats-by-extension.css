@@ -1,0 +1,12 @@
+/* PR diffstat opens the per-extension breakdown popover */
+[data-rgh-diffstat-extension='1'],
+[data-rgh-diffstat-extension='1'] * {
+	cursor: pointer;
+}
+
+.rgh-pr-diffstat-by-ext-popover {
+	padding: 0;
+	border: 0;
+	background: transparent;
+	overflow: visible;
+}

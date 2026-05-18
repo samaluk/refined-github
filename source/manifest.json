@@ -1,5 +1,4 @@
 {
-	"$schema": "https://json.schemastore.org/chrome-manifest",
 	"name": "Refined GitHub",
 	"version": "0.0.0",
 	"description": "Simplifies the GitHub interface and adds useful features",
